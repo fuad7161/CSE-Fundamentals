@@ -329,5 +329,18 @@
 
 ---
 
+## 23. Bangladesh Govt Job (IT) Exam Special Topics ⭐
+- [ ] OS Generations Timeline & Technologies (1st to 4th Gen)
+- [ ] Creator & Historical Year Matching (Unix 1969, MS-DOS 1981, Windows 1985, Linux 1991)
+- [ ] Scheduling Formulas (TAT, WT, RT) & Gantt Chart Numericals
+- [ ] Belady's Anomaly (FIFO vs LRU)
+- [ ] Paging Address Translation Numericals
+- [ ] Linux Permissions & Octal Notation (chmod, umask calculation)
+- [ ] Linux System Admin Commands (`df -h`, `du -sh`, `ps aux`, `top`, `kill -9`)
+- [ ] Dedicated Study Guide: [06. Bangladesh-Govt-Job-IT-OS-Guide.md](file:///home/user/Project/Personal/CSE-Fundamentals/03.%20Operating-Systems-Linux-and-Virtualization/06.%20Bangladesh-Govt-Job-IT-OS-Guide.md)
+
+---
+
 **Progress tracker:** _(update manually or count checked boxes)_
-Total topics: ~230+ | Completed: ___ | Remaining: ___
+Total topics: ~240+ | Completed: ___ | Remaining: ___
+
